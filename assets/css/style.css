@@ -397,9 +397,14 @@ body.dark-theme .bottomWave path{
     border-radius: .5rem;
 
     padding: 0.8rem 1.2rem;
+    transition: .3s;
 
     color: white;
     font-weight: var(--font-semi-bold);
+}
+
+.button:hover{
+    background-color: hsl(var(--hue-color), 46%, 38%);
 }
 
 .button:hover .home__button-icon {
