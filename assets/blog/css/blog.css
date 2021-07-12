@@ -183,7 +183,7 @@ body.dark-theme .bottomWave path{
 }
 
 body.dark-theme .blog__intro{
-    background: url('/assets/blog/img/background-dark.svg') center bottom no-repeat;
+    background: url('../../blog/img/background-dark.svg') center bottom no-repeat;
 
 }
 
@@ -370,7 +370,7 @@ body.dark-theme .blog__intro{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url('/assets/blog/img/background.svg') center bottom no-repeat;
+    background: url('../../blog/img/background.svg') center bottom no-repeat;
     background-size: cover;
 
     min-height: 60vh;
